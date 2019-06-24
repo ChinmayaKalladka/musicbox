@@ -1,4 +1,4 @@
-## This application is a clone of the original patatap 
+## The clone of the original application patatap 
 
     
 
